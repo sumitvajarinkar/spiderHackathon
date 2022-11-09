@@ -1,0 +1,18 @@
+export const FETCH_PIZZAS = 'FETCH_PIZZAS';
+export const FETCH_PIZZAS_SUCCESS = "FETCH_PIZZAS_SUCCESS";
+export const ERROR = "FETCH_ERROR";
+export const ADD_TO_CART = "ADD_TO_CART";
+export const UPDATE_QTY = "UPDATE_QTY";
+export const DELETE_ITEM = "DELETE_ITEM";
+export const ADD_ADDRESS = "ADD_ADDRESS";
+export const GET_ADDRESS = "GET_ADDRESS";
+export const UPDATE_ADDRESS = "UPDATE_ADDRESS";
+export const DELETE_ADDRESS = "DELETE_ADDRESS";
+export const SELECET_ADDRESS = "SELECET_ADDRESS";
+export const ADDRESS_ERROR = "ADDRESS_ERROR";
+export const DELETE_CART = "DELETE_CART";
+export const SHEARCH_REQ = "SHEARCH_REQ";
+export const SEARCH_SUCCESS = "SEARCH_SUCCESS";
+export const SERACH_ERROR = "SEARCH_SUCCESS";
+
+export const SHOW_SIDEBAR = "SHOW_SIDEBAR";
