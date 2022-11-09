@@ -25,19 +25,19 @@ const SideBar = () => {
             <Link to="/"><div className={`icon ${path==='/'&&'active'}`}>
                 <FaHome/>
             </div></Link>
-            <Link to="/orders"><div className={`icon ${path==='/orders'&&'active'}`}>
+            <Link to="/"><div className={`icon ${path==='/orders'&&'active'}`}>
                 <FaBoxOpen/>
             </div></Link>
-            <Link to='/wishlist'> <div className={`icon ${path==='/wishlist'&&'active'}`}>
+            <Link to='/'> <div className={`icon ${path==='/wishlist'&&'active'}`}>
                 <BsHeartHalf/>
             </div></Link>
-           <Link to="/your-address"> <div className={`icon ${path==='/your-address'&&'active'}`}>
+           <Link to="/"> <div className={`icon ${path==='/your-address'&&'active'}`}>
                 <CgFileDocument/>
             </div></Link>
             <Link to='/custom-pizza'><div className={`icon ${path==='/custom-pizza'&&'active'}`} >
                 <FaPizzaSlice/>
             </div></Link>
-            <Link to='/profile'><div className={`icon ${path==='/profile'&&'active'}`}>
+            <Link to='/'><div className={`icon ${path==='/profile'&&'active'}`}>
                 <BsGear/>
             </div></Link>
             </div>
