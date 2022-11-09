@@ -14,7 +14,9 @@
 * Landing page gives all the info about cafe menus like pizza, burgers, drinks, etc.
 * It has also a custom pizza builder which gives customer to add their own ingredients on pizza.
 * Sign in, sign up, cart etc. included.
-* Filter for searching the menus in cafe shop.
+* Used React Skelton loading screens.
+* Filter for various menus like pizza, burgers, drinks, etc.
+* Searching the menus in the cafe shop.
  
 ## 🚀 Tech and Tools Used
 
